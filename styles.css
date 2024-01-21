@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+img{
+	width:50%
+}
+
+h1{
+	background-color:black;
+	color:white;
+	width:15%;
+}
